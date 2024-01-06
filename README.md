@@ -4,7 +4,10 @@ big thanks to chatGPT ;-)
 
 # Installatie
 - Je moet Go installeren, zie https://go.dev/learn/
-- Clone deze repository
+- Clone deze repository:
+```
+git clone git@github.com:wimdenherder/mandelbrot-golang.git
+```
 - Installeer de juist go libraries:
 
 go get fyne.io/fyne/v2  
